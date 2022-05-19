@@ -1,0 +1,66 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+ :root {
+  --ifm-color-primary: #0240dc;
+  --ifm-color-primary-dark: #033ed5;
+
+  --ifm-code-font-size: 95%;
+
+  --ifm-font-family-monospace: "JetBrains Mono", "SFMono-Regular", "Menlo", "Consolas",
+    "Liberation Mono", monospace;
+}
+
+html[data-theme="dark"] {
+  --ifm-color-primary: #409efe;
+  --ifm-color-primary-dark: #0175ec;
+
+  --ifm-menu-color: #dadada !important;
+  --ifm-toc-link-color: #dadada !important;
+  --ifm-background-color: #151515;
+  --ifm-heading-color: #ededed;
+}
+.footer {
+  background-color: #f6f7f8;
+}
+
+[data-theme="dark"] .footer {
+  background-color: #1b1c1d;
+}
+
+.footer__title {
+  color: var(--ifm-navbar-link-color);
+}
+
+.footer__link-item {
+  color: var(--ifm-color-emphasis-800);
+}
+
+.footer__copyright {
+  color: var(--ifm-color-emphasis-900);
+  font-size: 95%;
+}
+
+.footer__col {
+  flex-basis: 30% !important;
+}
+
+.mainheader {
+  background-image: url("/img/lightmode-banner.png");
+}
+
+[data-theme="dark"] .mainheader {
+  background-image: url("/img/darkmode-banner.png");
+}
+
+[data-theme="dark"] .hero__subtitle {
+  color: var(--ifm-heading-color);
+}
+
+.logo {
+  height: 200px;
+  width: 200px;
+}

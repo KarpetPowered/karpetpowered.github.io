@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkarpetdocs=self.webpackChunkkarpetdocs||[]).push([[631],{5641:function(t){t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Port to Kotlin","permalink":"/blog/kotlin-port"}]}')}}]);

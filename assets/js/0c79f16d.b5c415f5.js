@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkarpetdocs=self.webpackChunkkarpetdocs||[]).push([[270],{4013:function(a){a.exports=JSON.parse('{"label":"master-branch","permalink":"/blog/tags/master-branch","allTagsPath":"/blog/tags","count":1}')}}]);

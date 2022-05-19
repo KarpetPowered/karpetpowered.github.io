@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkarpetdocs=self.webpackChunkkarpetdocs||[]).push([[320],{9544:function(a){a.exports=JSON.parse('{"label":"kotlin","permalink":"/blog/tags/kotlin","allTagsPath":"/blog/tags","count":1}')}}]);

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://karpetpowered.github.io/blog</id>
+    <title>Karpet Blog</title>
+    <updated>2022-05-15T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://karpetpowered.github.io/blog"/>
+    <subtitle>Karpet Blog</subtitle>
+    <icon>https://karpetpowered.github.io/img/wool.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Port to Kotlin]]></title>
+        <id>kotlin-port</id>
+        <link href="https://karpetpowered.github.io/blog/kotlin-port"/>
+        <updated>2022-05-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Yay so epic]]></summary>
+        <content type="html"><![CDATA[<p>Ok ya, so basically I copy pasted the code into intellij and it translated it.
+Now the project is written in kotlin for a number of reasons, and also the github color looks cool.</p>]]></content>
+        <author>
+            <name>Interfiber</name>
+            <uri>https://github.com/Interfiber</uri>
+        </author>
+        <category label="master-branch" term="master-branch"/>
+        <category label="development-changes" term="development-changes"/>
+        <category label="kotlin" term="kotlin"/>
+    </entry>
+</feed>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Karpet Blog</title>
+        <link>https://karpetpowered.github.io/blog</link>
+        <description>Karpet Blog</description>
+        <lastBuildDate>Sun, 15 May 2022 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Port to Kotlin]]></title>
+            <link>https://karpetpowered.github.io/blog/kotlin-port</link>
+            <guid>kotlin-port</guid>
+            <pubDate>Sun, 15 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Yay so epic]]></description>
+            <content:encoded><![CDATA[<p>Ok ya, so basically I copy pasted the code into intellij and it translated it.
+Now the project is written in kotlin for a number of reasons, and also the github color looks cool.</p>]]></content:encoded>
+            <category>master-branch</category>
+            <category>development-changes</category>
+            <category>kotlin</category>
+        </item>
+    </channel>
+</rss>

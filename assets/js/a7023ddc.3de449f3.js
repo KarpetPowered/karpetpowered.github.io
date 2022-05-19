@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkarpetdocs=self.webpackChunkkarpetdocs||[]).push([[713],{3457:function(e){e.exports=JSON.parse('[{"label":"master-branch","permalink":"/blog/tags/master-branch","count":1},{"label":"development-changes","permalink":"/blog/tags/development-changes","count":1},{"label":"kotlin","permalink":"/blog/tags/kotlin","count":1}]')}}]);

@@ -31,7 +31,7 @@ Once open input the **FULL PATH** to the folder you wish to install the server t
 If you want to avoid using the command-line use the installer instead.
 :::
 
-First go to the [Karpet GitHub](https://github.com/Interfiber/Karpet.git), and download the latest karpet server jar file from the release tab. Now create a folder in your terminal like below:
+First go to the [Karpet GitHub](https://github.com/KarpetPowered/Karpet.git), and download the latest karpet server jar file from the release tab. Now create a folder in your terminal like below:
 ```bash
 mkdir -p ~/mcserver
 ```

@@ -9,7 +9,7 @@ Loading a world using karpet
 Karpet **CANNOT** generate more terrain than the one that has already been written to disk. Make sure the world your loading has lots of terrain generated for you to use.
 
 ## 1.18 world notice
-Due to a bug in minestom 1.18 worlds will fail to load some chunks, its recommended to use a 1.17 world and load it onto the server. You can still play the game with a 1.18 client.
+Due to a bug in minestom 1.18 worlds will fail to load some chunks, its recommended to use a 1.16 world and load it onto the server. You can still play the game with a 1.18 client.
 
 ## World Saving
 World saving is really easy todo, I just havent added it yet.

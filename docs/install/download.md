@@ -7,9 +7,7 @@ This tutorial will show you how to download and run karpet
 
 
 ## Download Links
-<a class="button button--secondary button--lg" href="https://github.com/Interfiber/Karpet/releases/download/alpha-0.0.1/karpet_installer.zip">Download karpet-installer.jar</a>
-<p></p>
-<a class="button button--secondary button--lg" href="https://github.com/Interfiber/Karpet/releases/download/alpha-0.0.1/karpet-server-0.0.1.jar">Download karpet.jar</a>
+Download from [GitHub](https://github.com/KarpetPowered/Karpet/releases)
 
 ## Using the installer
 :::caution
